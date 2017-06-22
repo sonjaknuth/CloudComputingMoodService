@@ -1,6 +1,6 @@
-package moodService;
+package moodService.model;
 
-public class Mood {
+public class MoodResource {
 	private String mood;
 
 	public String getMood() {
